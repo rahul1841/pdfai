@@ -15,7 +15,7 @@ Streamlit is a Python library available as open-source, designed to simplify the
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/sabber-slt/pdfai.git`
+   `git clone https://github.com/rahul1841`
 
 2. Install requirement file.
 
